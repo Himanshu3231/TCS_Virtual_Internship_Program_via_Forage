@@ -80,13 +80,13 @@ Sample DAX:
 Total Revenue = SUMX('online_retail', 'online_retail'[UnitPrice] * 'online_retail'[Quantity])
 Total Quantity Sold = SUM('online_retail'[Quantity])
 
-7. Visualization Principles
+## 7. Visualization Principles
 - One Question = One Tab: Simplified user navigation
 - Explicit Naming: Clear tab labels like "Top 10 Countries"
 - Stakeholder Focus: CEO vs. CMO needs were treated separately
 - Clarity over Complexity: Simple, direct charts with actionable takeaways
 
-8. Key Questions & Insights
+## 8. Key Questions & Insights
 🔹 Insights for the CEO
 - Monthly Revenue Trend: Clear seasonal peaks identified (e.g., Nov 2011)
 - Regional Performance: Top regions like Netherlands & Germany stood out
@@ -97,7 +97,7 @@ Total Quantity Sold = SUM('online_retail'[Quantity])
 - Top 10 Customers: Used to guide loyalty and satisfaction strategies
 - Repeat Behavior: Uncovered gaps and potential in customer re-purchases
 
-9. Additional Analytical Deep Dives
+## 9. Additional Analytical Deep Dives
 📌 Customer Segmentation (RFM)
 - Segments like:
 - Best Customers
@@ -113,13 +113,13 @@ Found major drop-offs after 1–5 purchases → Retention Opportunity
 🛒 Product Performance
 Identified best/worst performers → Inventory Optimization Strategy
 
-10. Key Accomplishments & Impact
+## 10. Key Accomplishments & Impact
 ✅ Built stakeholder-focused Power BI dashboard
 ✅ Cleaned and transformed 500K+ records
 ✅ Created strategic customer segments
 ✅ Delivered real business insights for decision-making
 
-11. Conclusion & Recommendations
+## 11. Conclusion & Recommendations
 The project reinforced how data, when cleaned and visualized properly, can uncover growth opportunities.
 
 Recommendations:
@@ -128,17 +128,17 @@ Recommendations:
 - Focus on top-performing products & regions
 - Reevaluate underperforming areas
 
-12. Project Structure:
+## 12. Project Structure:
 .
 ├── My Diary of Findings and Approaches.txt  
 ├── README.md  
 └── [Visuals Folder - if applicable]  
     └── Visual screenshots / Power BI .pbix file (Not included here)
 
-13. How to View the Report
+## 13. How to View the Report
 The full report and dashboard were created in Power BI. Screenshots or .pbix file can be shared upon request.
 
-14. Skills Gained
+## 14. Skills Gained
 ✅ Data Cleaning (Power Query)
 ✅ Data Modeling & DAX
 ✅ Data Visualization (Power BI)
@@ -146,16 +146,16 @@ The full report and dashboard were created in Power BI. Screenshots or .pbix fil
 ✅ Problem Solving & Critical Thinking
 ✅ Business Communication & Strategic Framing
 
-15. Acknowledgements:
+## 15. Acknowledgements:
 🙏 Thanks to
 - Tata Consultancy Services (TCS) for the virtual internship
 - Forage for the platform and guidance
 
-16. Contact
+## 16. Contact
 Himanshu Kumar
 📧 [Gmail](ds.himanshu.kumar@gmail.com)
 🔗 [Linkedin](www.linkedin.com/in/himanshukumar3231)
 💻 [GitHub](https://github.com/himanshu3231)
 
-17. License
+## 17. License
 This repository is for educational and portfolio purposes only.
