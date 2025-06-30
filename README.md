@@ -153,9 +153,9 @@ The full report and dashboard were created in Power BI. Screenshots or .pbix fil
 
 ## 16. Contact
 Himanshu Kumar
-📧 [Gmail](ds.himanshu.kumar@gmail.com)
-🔗 [Linkedin](www.linkedin.com/in/himanshukumar3231)
-💻 [GitHub](https://github.com/himanshu3231)
+- 📧 [Gmail](ds.himanshu.kumar@gmail.com)
+- 🔗 [Linkedin](www.linkedin.com/in/himanshukumar3231)
+- 💻 [GitHub](https://github.com/himanshu3231)
 
 ## 17. License
 This repository is for educational and portfolio purposes only.
