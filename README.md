@@ -139,12 +139,12 @@ Recommendations:
 The full report and dashboard were created in Power BI. Screenshots or .pbix file can be shared upon request.
 
 ## 14. Skills Gained
-✅ Data Cleaning (Power Query)
-✅ Data Modeling & DAX
-✅ Data Visualization (Power BI)
-✅ Customer Segmentation (RFM)
-✅ Problem Solving & Critical Thinking
-✅ Business Communication & Strategic Framing
+- Data Cleaning (Power Query)
+- Data Modeling & DAX
+- Data Visualization (Power BI)
+- Customer Segmentation (RFM)
+- Problem Solving & Critical Thinking
+- Business Communication & Strategic Framing
 
 ## 15. Acknowledgements:
 🙏 Thanks to
